@@ -20,7 +20,7 @@
   height: 100px;
   border-radius: 50%;
   border: 10px solid #ddd;
-  border-top-color: orange;
+  border-top-color: #4871ec;
   animation: loading 1s linear infinite;
 }
 @keyframes loading {
